@@ -5,9 +5,9 @@ Mustafa Vahit Keskin hoca tarafından hazırlanan eğitim seti ile ilgili ders n
 ![image](https://yt3.ggpht.com/ytc/AMLnZu9o-w8N4mnYeJQblpyQVctO7mg4m-CN3XsktQLA_w=s900-c-k-c0x00ffffff-no-rj)
 
 ## Eğitimde Yer Alan Modüller
-1. [Veri Bilimi ve Yapay Zekaya Giriş](../1.%20Veri%20Bilimi%20ve%20Yapay%20Zekaya%20Giri%C5%9F)
-2. [Veri Okuryazarlığı](../2.%20Veri%20Okuryazarl%C4%B1%C4%9F%C4%B1)
-3. [Python](../3.%20Python)
+1. [Veri Bilimi ve Yapay Zekaya Giriş](1.%20Veri%20Bilimi%20ve%20Yapay%20Zekaya%20Giri%C5%9F/)
+2. [Veri Okuryazarlığı](2.%20Veri%20Okuryazarl%C4%B1%C4%9F%C4%B1/)
+3. [Python](3.%20Python/)
 4. Veri Manipülasyonu
 5. Veri Görselleştirme
 6. Veri Bilimi için İstatistik
