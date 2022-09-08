@@ -4,7 +4,7 @@
 
 ## Python modülü aşağıdaki başlıklardan oluşmaktadır:
 1. [Python Programlama 101](../3.%20Python/python101.ipynb)
-2. [Python Programlama 201]()
+2. [Python Programlama 201](../3.%20Python/python201.ipynb)
 3. [Python Programlama 301]()
 4. [Python Programlama 401]()
 
