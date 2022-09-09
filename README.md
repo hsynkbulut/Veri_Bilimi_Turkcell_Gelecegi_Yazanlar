@@ -8,7 +8,7 @@ Mustafa Vahit Keskin hoca tarafından hazırlanan eğitim seti ile ilgili ders n
 1. [Veri Bilimi ve Yapay Zekaya Giriş](1.%20Veri%20Bilimi%20ve%20Yapay%20Zekaya%20Giri%C5%9F/)
 2. [Veri Okuryazarlığı](2.%20Veri%20Okuryazarl%C4%B1%C4%9F%C4%B1/)
 3. [Python](3.%20Python/)
-4. Veri Manipülasyonu
+4. [Veri Manipülasyonu](4.%20Veri%20Manip%C3%BClasyonu/)
 5. Veri Görselleştirme
 6. Veri Bilimi için İstatistik
 7. Veri Ön İşleme
