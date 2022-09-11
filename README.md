@@ -9,7 +9,7 @@ Mustafa Vahit Keskin hoca tarafından hazırlanan eğitim seti ile ilgili ders n
 2. [Veri Okuryazarlığı](2.%20Veri%20Okuryazarl%C4%B1%C4%9F%C4%B1/)
 3. [Python](3.%20Python/)
 4. [Veri Manipülasyonu](4.%20Veri%20Manip%C3%BClasyonu/)
-5. Veri Görselleştirme
+5. [Veri Görselleştirme](5.%20Veri%20G%C3%B6rselle%C5%9Ftirme/)
 6. Veri Bilimi için İstatistik
 7. Veri Ön İşleme
 8. Makine Öğrenmesi
