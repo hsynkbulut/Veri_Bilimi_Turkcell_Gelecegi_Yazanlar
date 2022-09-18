@@ -4,9 +4,9 @@
 
 ## Python modülü aşağıdaki başlıklardan oluşmaktadır:
 1. [Python Programlama 101](python101.ipynb)
-2. [Python Programlama 201](./python201.ipynb)
-3. [Python Programlama 301](./python301.ipynb)
-4. [Python Programlama 401](./python401.ipynb)
+2. [Python Programlama 201](python201.ipynb)
+3. [Python Programlama 301](python301.ipynb)
+4. [Python Programlama 401](python401.ipynb)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
